@@ -41,29 +41,29 @@ a:hover{
 	flex-wrap: wrap;
 }
 #work{
-	height: 1000px;
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;
+	background-attachment: fixed;
+	padding: 20px;
+}
+#work img{
+	width: 80%;
 	padding: 20px;
 }
 #productos{
-	height: 400px;
 	flex-direction: row;
 	justify-content: space-around;
 }
 #productos1{
-	height: 400px;
 	flex-direction: row;
 	justify-content: space-around;
 }
 #productos2{
-	height: 400px;
 	flex-direction: row;
 	justify-content: space-around;
 }
 footer{
-	height: 80px;
 	flex-direction: row;
 	background-color: black;
 	justify-content: center;
